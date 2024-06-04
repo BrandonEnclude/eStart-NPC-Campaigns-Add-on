@@ -8,13 +8,6 @@ An add-on to eStart-NPC orgs. Adds functionality related to Campaigns
 </a>
 
 ## Contents
-- Standard Value Sets
-  - Campaign Type
-    - AGM
-    - Board Meeting
-    - Event
-    - Recruitment
-    - Training
 - Campaign
   - List Views
     - All AGMs
@@ -24,3 +17,12 @@ An add-on to eStart-NPC orgs. Adds functionality related to Campaigns
     - All Recruitment
     - All Training
     - My Campaigns
+- Permission Sets
+  - eStart Campaigns
+- Standard Value Sets
+  - Campaign Type
+    - AGM
+    - Board Meeting
+    - Event
+    - Recruitment
+    - Training
