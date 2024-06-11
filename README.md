@@ -1,5 +1,5 @@
-# eStart NPC Campaigns Add-On
-An add-on to eStart-NPC orgs. Adds functionality related to Campaigns
+# eStart Campaigns Add-On
+An add-on to eStart orgs. Adds functionality related to Campaigns
 
 ## Deploy
 <a href="https://githubsfdeploy.herokuapp.com?owner=Enclude-Components&repo=eStart-NPC-Campaigns-Add-on&ref=main">
